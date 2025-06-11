@@ -1,4 +1,4 @@
-name: Docker Compose Workflow
+name: Docker Compose Workflow2
 
 on:
   push:
